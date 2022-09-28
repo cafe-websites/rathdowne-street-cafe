@@ -1,0 +1,14 @@
+location:
+  address: 619 Rathdowne St, Carlton North VIC 3054, Australia
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.9746778226686!2d144.97139669999999!3d-37.790633199999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad6432f6f335cf5%3A0x12c1f56f3dc48c6!2sRathdowne%20Street%20Cafe!5e0!3m2!1sen!2sus!4v1664330237037!5m2!1sen!2sus
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/rathdownestcafe/
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:+61 3 9347 0993
